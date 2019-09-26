@@ -49,7 +49,7 @@ Contributed by [Xiaozhi Wang](https://bakser.github.io/) and [Zhengyan Zhang](ht
 7. **Well-Read Students Learn Better: The Impact of Student Initialization on Knowledge Distillation**. *Iulia Turc, Ming-Wei Chang, Kenton Lee, Kristina Toutanova*. Preprint. [[pdf](https://arxiv.org/pdf/1908.08962.pdf)]
 8. **Small and Practical BERT Models for Sequence Labeling**. *Henry Tsai, Jason Riesa, Melvin Johnson, Naveen Arivazhagan, Xin Li, Amelia Archer*. EMNLP2019. [[pdf](https://arxiv.org/pdf/1909.00100.pdf)]
 9. **Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT**. *Sheng Shen, Zhen Dong, Jiayu Ye, Linjian Ma, Zhewei Yao, Amir Gholami, Michael W. Mahoney, Kurt Keutzer*. Preprint. [[pdf](https://arxiv.org/pdf/1909.05840.pdf)]
-10. **ALBERT: A Lite BERT for Self-supervised Learning of Language Representations **. *Anonymous authors*. ICLR2020 under review. [[pdf](https://openreview.net/pdf?id=H1eA7AEtvS)]
+10. **ALBERT: A Lite BERT for Self-supervised Learning of Language Representations**.  *Anonymous authors*. ICLR2020 under review. [[pdf](https://openreview.net/pdf?id=H1eA7AEtvS)]
 
 ### Analysis
 
