@@ -6,6 +6,10 @@ Contributed by [Xiaozhi Wang](https://bakser.github.io/) and [Zhengyan Zhang](ht
 
 ## Introduction
 
+Pre-trained Languge Model (PLM) is a very popular topic in NLP. In this repo, we list some representative work about PLM and give the the family tree of them. We also welcome other researchers to correct anything wrong and add new exciting work.
+
+![PLMfamiily](/Users/zzy/PLMpapers/PLMfamily.jpeg)
+
 ## Papers
 ### Models
 
