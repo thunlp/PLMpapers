@@ -8,7 +8,7 @@ Pre-trained Languge Model (PLM) is a very popular topic in NLP. In this repo, we
 
 ![PLMfamiily](PLMfamily.jpg)
 
-Corrections and suggestions are welcomed.
+Corrections and suggestions are welcomed. We also released [OpenCLap](https://github.com/thunlp/OpenCLaP), an open-source chinese language pre-trained model zoo.
 
 ## Papers
 ### Models
