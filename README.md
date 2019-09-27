@@ -4,11 +4,13 @@ Contributed by [Xiaozhi Wang](https://bakser.github.io/) and [Zhengyan Zhang](ht
 
 ## Introduction
 
-Pre-trained Languge Model (PLM) is a very popular topic in NLP. In this repo, we list some representative work on PLM and show their relationship with a family tree: 
+Pre-trained Languge Model (PLM) is a very popular topic in NLP. In this repo, we list some representative work on PLM and show their relationship with a diagram. Feel free to distribute or use it!
 
 ![PLMfamiily](PLMfamily.jpg)
 
-Corrections and suggestions are welcomed. We also released [OpenCLap](https://github.com/thunlp/OpenCLaP), an open-source chinese language pre-trained model zoo.
+Corrections and suggestions are welcomed. 
+
+We also released [OpenCLap](https://github.com/thunlp/OpenCLaP), an open-source chinese language pre-trained model zoo. Welcome to try it.
 
 ## Papers
 ### Models
