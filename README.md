@@ -45,11 +45,11 @@ We also released [OpenCLap](https://github.com/thunlp/OpenCLaP), an open-source 
 28. **Pre-Training with Whole Word Masking for Chinese BERT**. *Yiming Cui, Wanxiang Che, Ting Liu, Bing Qin, Ziqing Yang, Shijin Wang, Guoping Hu*. Preprint. [[pdf](https://arxiv.org/pdf/1906.08101.pdf)] [[code & model](https://github.com/ymcui/Chinese-BERT-wwm/blob/master/README_EN.md)] (**Chinese-BERT-wwm**)
 29. **UNITER: Learning UNiversal Image-TExt Representations**. *Yen-Chun Chen, Linjie Li, Licheng Yu, Ahmed El Kholy, Faisal Ahmed, Zhe Gan, Yu Cheng, Jingjing Liu*. Preprint. [[pdf](https://arxiv.org/pdf/1909.11740.pdf)]
 30. **HUBERT Untangles BERT to Improve Transfer across NLP Tasks**. *Anonymous authors*. [[pdf](https://openreview.net/pdf?id=HJxnM1rFvr)]
-31. **MultiFiT: Efficient Multi-lingual Language Model Fine-tuning**.  *Julian Eisenschlos, Sebastian Ruder, Piotr Czapla, Marcin Kardas, Sylvain Gugger, Jeremy Howard*. [[pdf](https://arxiv.org/pdf/1909.04761.pdf)] [[code & model](http://nlp.fast.ai/classification/2019/09/10/multifit.html)]
+31. **MultiFiT: Efficient Multi-lingual Language Model Fine-tuning**.  *Julian Eisenschlos, Sebastian Ruder, Piotr Czapla, Marcin Kardas, Sylvain Gugger, Jeremy Howard*. EMNLP2019. [[pdf](https://arxiv.org/pdf/1909.04761.pdf)] [[code & model](http://nlp.fast.ai/classification/2019/09/10/multifit.html)]
 
 ### Knowledge Distillation & Model Compression
 
-1. **TinyBERT: Distilling BERT for Natural Language Understanding**. *Xiaoqi Jiao, Yichun Yin, Lifeng Shang, Xin Jiang, Xiao Chen, Linlin Li, Fang Wang, Qun Liu*. [[pdf](https://arxiv.org/pdf/1909.10351v2.pdf)]
+1. **TinyBERT: Distilling BERT for Natural Language Understanding**. *Xiaoqi Jiao, Yichun Yin, Lifeng Shang, Xin Jiang, Xiao Chen, Linlin Li, Fang Wang, Qun Liu*. Preprint. [[pdf](https://arxiv.org/pdf/1909.10351v2.pdf)]
 2. **Distilling Task-Specific Knowledge from BERT into Simple Neural Networks**. *Raphael Tang, Yao Lu, Linqing Liu, Lili Mou, Olga Vechtomova, Jimmy Lin*. Preprint. [[pdf](https://arxiv.org/pdf/1903.12136.pdf)]
 3. **Patient Knowledge Distillation for BERT Model Compression**. *Siqi Sun, Yu Cheng, Zhe Gan, Jingjing Liu*. EMNLP2019. [[pdf](https://arxiv.org/pdf/1908.09355.pdf)] [[code](https://github.com/intersun/PKD-for-BERT-Model-Compression)]
 4. **Model Compression with Multi-Task Knowledge Distillation for Web-scale Question Answering System**. *Ze Yang, Linjun Shou, Ming Gong, Wutao Lin, Daxin Jiang*. Preprint. [[pdf](https://arxiv.org/pdf/1904.09636.pdf)]
