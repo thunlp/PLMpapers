@@ -12,9 +12,6 @@ Corrections and suggestions are welcomed.
 
 We also released [OpenCLap](https://github.com/thunlp/OpenCLaP), an open-source Chinese language pre-trained model zoo. Welcome to try it.
 
-## Tutorial
-1. **Transfer Learning in Natural Language Processing**. *Sebastian Ruder, Matthew E. Peters, Swabha Swayamdipta, Thomas Wolf*. NAACL 2019. [[slides](https://docs.google.com/presentation/d/1fIhGikFPnb7G5kr58OvYC3GN4io7MznnM0aAgadvJfc/edit?usp=sharing)] 
-
 ## Papers
 ### Models
 
@@ -66,6 +63,7 @@ We also released [OpenCLap](https://github.com/thunlp/OpenCLaP), an open-source 
 9. **Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT**. *Sheng Shen, Zhen Dong, Jiayu Ye, Linjian Ma, Zhewei Yao, Amir Gholami, Michael W. Mahoney, Kurt Keutzer*. Preprint. [[pdf](https://arxiv.org/pdf/1909.05840.pdf)]
 10. **ALBERT: A Lite BERT for Self-supervised Learning of Language Representations**.  *Anonymous authors*. ICLR 2020 under review. [[pdf](https://openreview.net/pdf?id=H1eA7AEtvS)]
 11. **Extreme Language Model Compression with Optimal Subwords and Shared Projections**. *Sanqiang Zhao, Raghav Gupta, Yang Song, Denny Zhou*. Preprint. [[pdf](https://arxiv.org/pdf/1909.11687)]
+12. **DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter**. *Victor Sanh, Lysandre Debut, Julien Chaumond, Thomas Wolf*. Preprint. [[pdf](https://arxiv.org/pdf/1910.01108)]
 
 ### Analysis
 
@@ -96,3 +94,7 @@ We also released [OpenCLap](https://github.com/thunlp/OpenCLaP), an open-source 
 25. **Language Models as Knowledge Bases?** *Fabio Petroni, Tim Rocktäschel, Patrick Lewis, Anton Bakhtin, Yuxiang Wu, Alexander H. Miller, Sebastian Riedel*. EMNLP 2019, [[pdf](https://arxiv.org/pdf/1909.01066.pdf)] [[code](https://github.com/facebookresearch/LAMA)]
 26. **To Tune or Not to Tune? Adapting Pretrained Representations to Diverse Tasks**. *Matthew E. Peters, Sebastian Ruder, Noah A. Smith*. RepL4NLP 2019, [[pdf](https://www.aclweb.org/anthology/W19-4302.pdf)]
 
+## Tutorial & Resource
+
+1. **Transfer Learning in Natural Language Processing**. *Sebastian Ruder, Matthew E. Peters, Swabha Swayamdipta, Thomas Wolf*. NAACL 2019. [[slides](https://docs.google.com/presentation/d/1fIhGikFPnb7G5kr58OvYC3GN4io7MznnM0aAgadvJfc/edit?usp=sharing)] 
+2. **Transformers: State-of-the-art Natural Language Processing**. *Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue, Anthony Moi, Pierric Cistac, Tim Rault, Rémi Louf, Morgan Funtowicz, Jamie Brew*. Preprint. [[pdf](https://arxiv.org/pdf/1910.03771.pdf)] [[code](https://github.com/huggingface/transformers)]
