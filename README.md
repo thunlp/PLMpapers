@@ -17,7 +17,7 @@ We also released [OpenCLap](https://github.com/thunlp/OpenCLaP), an open-source 
 
 1. **Semi-supervised Sequence Learning**. *Andrew M. Dai, Quoc V. Le*. NIPS 2015. [[pdf](https://arxiv.org/pdf/1511.01432.pdf)]
 2. **context2vec: Learning Generic Context Embedding with Bidirectional LSTM**. *Oren Melamud, Jacob Goldberger, Ido Dagan*. CoNLL 2016. [[pdf](https://www.aclweb.org/anthology/K16-1006.pdf)] [[project](http://u.cs.biu.ac.il/~nlp/resources/downloads/context2vec/)] (**context2vec**)
-3. **Unsupervised Pretraining for Sequence to Sequence Learning**. *Prajit Ramachandran, Peter J. Liu, Quoc V. Le*. EMNLP 2017. [[pdf](https://arxiv.org/pdf/1611.02683.pdf)] (**Pre-trained seq2seq**)`
+3. **Unsupervised Pretraining for Sequence to Sequence Learning**. *Prajit Ramachandran, Peter J. Liu, Quoc V. Le*. EMNLP 2017. [[pdf](https://arxiv.org/pdf/1611.02683.pdf)] (**Pre-trained seq2seq**)
 4. **Deep contextualized word representations**. *Matthew E. Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee and Luke Zettlemoyer*. NAACL 2018. [[pdf](https://arxiv.org/pdf/1802.05365.pdf)] [[project](https://allennlp.org/elmo)] (**ELMo**)
 5. **Universal Language Model Fine-tuning for Text Classification**. *Jeremy Howard and Sebastian Ruder*. ACL 2018. [[pdf](https://www.aclweb.org/anthology/P18-1031)] [[project](http://nlp.fast.ai/category/classification.html)] (**ULMFiT**)
 6. **Improving Language Understanding by Generative Pre-Training**. *Alec Radford, Karthik Narasimhan, Tim Salimans and Ilya Sutskever*. Preprint. [[pdf](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)] [[project](https://openai.com/blog/language-unsupervised/)] (**GPT**)
@@ -95,6 +95,7 @@ We also released [OpenCLap](https://github.com/thunlp/OpenCLaP), an open-source 
 25. **Language Models as Knowledge Bases?** *Fabio Petroni, Tim Rocktäschel, Patrick Lewis, Anton Bakhtin, Yuxiang Wu, Alexander H. Miller, Sebastian Riedel*. EMNLP 2019, [[pdf](https://arxiv.org/pdf/1909.01066.pdf)] [[code](https://github.com/facebookresearch/LAMA)]
 26. **To Tune or Not to Tune? Adapting Pretrained Representations to Diverse Tasks**. *Matthew E. Peters, Sebastian Ruder, Noah A. Smith*. RepL4NLP 2019, [[pdf](https://www.aclweb.org/anthology/W19-4302.pdf)]
 27. **On the Cross-lingual Transferability of Monolingual Representations**. *Mikel Artetxe, Sebastian Ruder, Dani Yogatama*. Preprint, [[pdf](https://arxiv.org/pdf/1910.11856.pdf)] [[dataset](https://github.com/deepmind/XQuAD)]
+28. **A Structural Probe for Finding Syntax in Word Representations**. *John Hewitt, Christopher D. Manning*. NAACL 2019. [[pdf](https://www.aclweb.org/anthology/N19-1419.pdf)]
 
 ## Tutorial & Resource
 
