@@ -50,7 +50,8 @@ We also released [OpenCLap](https://github.com/thunlp/OpenCLaP), an open-source 
 33. **HUBERT Untangles BERT to Improve Transfer across NLP Tasks**. *Anonymous authors*. ICLR 2020 under review. [[pdf](https://openreview.net/pdf?id=HJxnM1rFvr)]
 34. **MultiFiT: Efficient Multi-lingual Language Model Fine-tuning**.  *Julian Eisenschlos, Sebastian Ruder, Piotr Czapla, Marcin Kardas, Sylvain Gugger, Jeremy Howard*. EMNLP 2019. [[pdf](https://arxiv.org/pdf/1909.04761.pdf)] [[code & model](http://nlp.fast.ai/classification/2019/09/10/multifit.html)]
 35. **Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer**.  *Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael Matena, Yanqi Zhou, Wei Li, Peter J. Liu*. Preprint. [[pdf](https://arxiv.org/pdf/1910.10683.pdf)] [[code & model](https://github.com/google-research/text-to-text-transfer-transformer)] (**T5**)
-36. **BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension**. *Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Ves Stoyanov, Luke Zettlemoyer*. Preprint. [[pdf](https://arxiv.org/pdf/1910.13461.pdf)] (**BART**)
+36. **BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension**. *Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Ves Stoyanov, Luke Zettlemoyer*. Preprint. [[pdf](https://arxiv.org/pdf/1910.13461.pdf)]
+37. **ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators**. *Anonymous authors*. ICLR 2020 under review. [[pdf](https://openreview.net/pdf?id=r1xMH1BtvB)]
 
 ### Knowledge Distillation & Model Compression
 
