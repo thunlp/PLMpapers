@@ -54,11 +54,10 @@ We also released [OpenCLap](https://github.com/thunlp/OpenCLaP), an open-source 
 38. **A Mutual Information Maximization Perspective of Language Representation Learning**. *Lingpeng Kong, Cyprien de Masson d'Autume, Lei Yu, Wang Ling, Zihang Dai, Dani Yogatama*. ICLR 2020. [[pdf](https://openreview.net/pdf?id=Syx79eBKwr)]
 39. **A Mutual Information Maximization Perspective of Language Representation Learning**. *Wei Wang, Bin Bi, Ming Yan, Chen Wu, Jiangnan Xia, Zuyi Bao, Liwei Peng, Luo Si*. ICLR 2020. [[pdf](https://openreview.net/pdf?id=BJgQ4lSFPH)]
 40. **Pre-training Tasks for Embedding-based Large-scale Retrieval**. *Wei-Cheng Chang, Felix X. Yu, Yin-Wen Chang, Yiming Yang, Sanjiv Kumar*. ICLR 2020. [[pdf](https://openreview.net/pdf?id=rkg-mA4FDr)]
-41. **Thieves on Sesame Street! Model Extraction of BERT-based APIs**. *Kalpesh Krishna, Gaurav Singh Tomar, Ankur P. Parikh, Nicolas Papernot, Mohit Iyyer*. ICLR 2020. [[pdf](https://openreview.net/pdf?id=Byl5NREFDr)]
+41. **Poly-encoders: Architectures and Pre-training Strategies for Fast and Accurate Multi-sentence Scorings**. *Samuel Humeau, Kurt Shuster, Marie-Anne Lachaux, Jason Weston*. ICLR 2020. [[pdf](https://openreview.net/pdf?id=SkxgnnNFvH)]
 42. **Poly-encoders: Architectures and Pre-training Strategies for Fast and Accurate Multi-sentence Scorings**. *Samuel Humeau, Kurt Shuster, Marie-Anne Lachaux, Jason Weston*. ICLR 2020. [[pdf](https://openreview.net/pdf?id=SkxgnnNFvH)]
-43. **Poly-encoders: Architectures and Pre-training Strategies for Fast and Accurate Multi-sentence Scorings**. *Samuel Humeau, Kurt Shuster, Marie-Anne Lachaux, Jason Weston*. ICLR 2020. [[pdf](https://openreview.net/pdf?id=SkxgnnNFvH)]
-44. **FreeLB: Enhanced Adversarial Training for Language Understanding**. *Chen Zhu, Yu Cheng, Zhe Gan, Siqi Sun, Thomas Goldstein, Jingjing Liu*. ICLR 2020. [[pdf](https://openreview.net/pdf?id=BygzbyHFvB)]
-46. **Multilingual Alignment of Contextual Word Representations**. *Steven Cao, Nikita Kitaev, Dan Klein*. ICLR 2020. [[pdf](https://openreview.net/pdf?id=r1xCMyBtPS)]
+43. **FreeLB: Enhanced Adversarial Training for Language Understanding**. *Chen Zhu, Yu Cheng, Zhe Gan, Siqi Sun, Thomas Goldstein, Jingjing Liu*. ICLR 2020. [[pdf](https://openreview.net/pdf?id=BygzbyHFvB)]
+44. **Multilingual Alignment of Contextual Word Representations**. *Steven Cao, Nikita Kitaev, Dan Klein*. ICLR 2020. [[pdf](https://openreview.net/pdf?id=r1xCMyBtPS)]
 
 ### Knowledge Distillation & Model Compression
 
@@ -75,6 +74,7 @@ We also released [OpenCLap](https://github.com/thunlp/OpenCLaP), an open-source 
 11. **Extreme Language Model Compression with Optimal Subwords and Shared Projections**. *Sanqiang Zhao, Raghav Gupta, Yang Song, Denny Zhou*. Preprint. [[pdf](https://arxiv.org/pdf/1909.11687)]
 12. **DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter**. *Victor Sanh, Lysandre Debut, Julien Chaumond, Thomas Wolf*. Preprint. [[pdf](https://arxiv.org/pdf/1910.01108)]
 13. **Reducing Transformer Depth on Demand with Structured Dropout**.  *Angela Fan, Edouard Grave, Armand Joulin*. ICLR 2020. [[pdf](https://openreview.net/pdf?id=SylO2yStDr)]
+14. **Thieves on Sesame Street! Model Extraction of BERT-based APIs**. *Kalpesh Krishna, Gaurav Singh Tomar, Ankur P. Parikh, Nicolas Papernot, Mohit Iyyer*. ICLR 2020. [[pdf](https://openreview.net/pdf?id=Byl5NREFDr)]
 
 ### Analysis
 
