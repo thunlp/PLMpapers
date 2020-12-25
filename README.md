@@ -64,8 +64,10 @@ We also released [OpenCLap](https://github.com/thunlp/OpenCLaP), an open-source 
 50. **Pre-training Multilingual Neural Machine Translation by Leveraging Alignment Information**. *Zehui Lin, Xiao Pan, Mingxuan Wang, Xipeng Qiu, Jiangtao Feng, Hao Zhou, Lei Li*. EMNLP 2020. [[pdf](https://www.aclweb.org/anthology/2020.emnlp-main.210.pdf)]
 51. **Pre-Training Transformers as Energy-Based Cloze Models**. *Kevin Clark, Minh-Thang Luong, Quoc Le, Christopher D. Manning*. EMNLP 2020. [[pdf](https://www.aclweb.org/anthology/2020.emnlp-main.20)]
 52. **PatchBERT: Just-in-Time, Out-of-Vocabulary Patching**. *Sangwhan Moon, Naoaki Okazaki*. EMNLP 2020. [[pdf](https://www.aclweb.org/anthology/2020.emnlp-main.631.pdf)]
+53. **Pre-training via Paraphrasing**. *Mike Lewis, Marjan Ghazvininejad, Gargi Ghosh, Armen Aghajanyan, Sida Wang, Luke Zettlemoyer*. NeurIPS 2020. [[pdf](https://papers.nips.cc/paper/2020/file/d6f1dd034aabde7657e6680444ceff62-Paper.pdf)]
+54. **ConvBERT: Improving BERT with Span-based Dynamic Convolution**. *Zi-Hang Jiang, Weihao Yu, Daquan Zhou, Yunpeng Chen, Jiashi Feng, Shuicheng Yan*. NeurIPS 2020. [[pdf](https://papers.nips.cc/paper/2020/file/96da2f590cd7246bbde0051047b0d6f7-Paper.pdf)]
 
-### Knowledge Distillation & Model Compression
+### Model Compression & Acceleration
 
 1. **TinyBERT: Distilling BERT for Natural Language Understanding**. *Xiaoqi Jiao, Yichun Yin, Lifeng Shang, Xin Jiang, Xiao Chen, Linlin Li, Fang Wang, Qun Liu*. Preprint. [[pdf](https://arxiv.org/pdf/1909.10351v2.pdf)] [[code & model](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TinyBERT)]
 2. **Distilling Task-Specific Knowledge from BERT into Simple Neural Networks**. *Raphael Tang, Yao Lu, Linqing Liu, Lili Mou, Olga Vechtomova, Jimmy Lin*. Preprint. [[pdf](https://arxiv.org/pdf/1903.12136.pdf)]
@@ -86,6 +88,9 @@ We also released [OpenCLap](https://github.com/thunlp/OpenCLaP), an open-source 
 17. **BERT-of-Theseus: Compressing BERT by Progressive Module Replacing**. *Canwen Xu, Wangchunshu Zhou, Tao Ge, Furu Wei, Ming Zhou*. EMNLP 2020. [[pdf](https://www.aclweb.org/anthology/2020.emnlp-main.633.pdf)]
 18. **TernaryBERT: Distillation-aware Ultra-low Bit BERT**. *Wei Zhang, Lu Hou, Yichun Yin, Lifeng Shang, Xiao Chen, Xin Jiang, Qun Liu*. EMNLP 2020. [[pdf](https://www.aclweb.org/anthology/2020.emnlp-main.37)]
 19. **When BERT Plays the Lottery, All Tickets Are Winning**. *Sai Prasanna, Anna Rogers, Anna Rumshisky*. EMNLP 2020. [[pdf](https://www.aclweb.org/anthology/2020.emnlp-main.259.pdf)]
+20. **Funnel-Transformer: Filtering out Sequential Redundancy for Efficient Language Processing**. *Zihang Dai, Guokun Lai, Yiming Yang, Quoc Le*. NeurIPS 2020. [[pdf](https://papers.nips.cc/paper/2020/file/2cd2915e69546904e4e5d4a2ac9e1652-Paper.pdf)]
+21. **DynaBERT: Dynamic BERT with Adaptive Width and Depth**. *Lu Hou, Zhiqi Huang, Lifeng Shang, Xin Jiang, Xiao Chen, Qun Liu*. NeurIPS 2020. [[pdf](https://papers.nips.cc/paper/2020/file/6f5216f8d89b086c18298e043bfe48ed-Paper.pdf)]
+22. **BERT Loses Patience: Fast and Robust Inference with Early Exit**. *Wangchunshu Zhou, Canwen Xu, Tao Ge, Julian McAuley, Ke Xu, Furu Wei*. NeurIPS 2020. [[pdf](https://papers.nips.cc/paper/2020/file/d4dd111a4fd973394238aca5c05bebe3-Paper.pdf)]
 
 ### Analysis
 
@@ -131,6 +136,7 @@ Dipanjan Das, and Ellie Pavlick*. ICLR 2019. [[pdf](https://arxiv.org/pdf/1905.0
 37. **Birds have four legs?! NumerSense: Probing Numerical Commonsense Knowledge of Pre-trained Language Models**. *Bill Yuchen Lin, Seyeon Lee, Rahul Khanna and Xiang Ren*. EMNLP 2020. [[pdf](https://www.aclweb.org/anthology/2020.emnlp-main.557)]
 38. **Identifying Elements Essential for BERT’s Multilinguality**. *Philipp Dufter, Hinrich Schütze*. EMNLP 2020. [[pdf](https://www.aclweb.org/anthology/2020.emnlp-main.358.pdf)]
 39. **AUTOPROMPT: Eliciting Knowledge from Language Models with Automatically Generated Prompts**. *Taylor Shin, Yasaman Razeghi, Robert L Logan IV, Eric Wallace, Sameer Singh*. EMNLP 2020. [[pdf](https://www.aclweb.org/anthology/2020.emnlp-main.346.pdf)]
+39. **The Lottery Ticket Hypothesis for Pre-trained BERT Networks**. *Tianlong Chen, Jonathan Frankle, Shiyu Chang, Sijia Liu, Yang Zhang, Zhangyang Wang, Michael Carbin*. NeurIPS 2020. [[pdf](https://papers.nips.cc/paper/2020/file/b6af2c9703f203a2794be03d443af2e3-Paper.pdf)]
 
 ## Finetuning/Adaptation
 
@@ -140,6 +146,7 @@ Dipanjan Das, and Ellie Pavlick*. ICLR 2019. [[pdf](https://arxiv.org/pdf/1905.0
 4. **Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks**. *Suchin Gururangan, Ana Marasović, Swabha Swayamdipta, Kyle Lo, Iz Beltagy, Doug Downey, Noah A. Smith*. ACL 2020. [[pdf](https://www.aclweb.org/anthology/2020.acl-main.740.pdf)]
 5. **Recall and Learn: Fine-tuning Deep Pretrained Language Models with Less Forgetting**. *Sanyuan Chen, Yutai Hou, Yiming Cui, Wanxiang Che, Ting Liu, Xiangzhan Yu*. EMNLP 2020. [[pdf](https://www.aclweb.org/anthology/2020.emnlp-main.634.pdf)]
 6. **Masking as an Efficient Alternative to Finetuning for Pretrained Language Models**. *Mengjie Zhao, Tao Lin, Fei Mi, Martin Jaggi, Hinrich Schütze*. EMNLP 2020. [[pdf](https://www.aclweb.org/anthology/2020.emnlp-main.174.pdf)]
+7. **CogLTX: Applying BERT to Long Texts**. *Ming Ding, Chang Zhou, Hongxia Yang, Jie Tang*. NeurIPS 2020. [[pdf](https://papers.nips.cc/paper/2020/file/96671501524948bc3937b4b30d0e57b9-Paper.pdf)]
 
 ## Tutorial & Resource
 
