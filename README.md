@@ -136,7 +136,8 @@ Dipanjan Das, and Ellie Pavlick*. ICLR 2019. [[pdf](https://arxiv.org/pdf/1905.0
 37. **Birds have four legs?! NumerSense: Probing Numerical Commonsense Knowledge of Pre-trained Language Models**. *Bill Yuchen Lin, Seyeon Lee, Rahul Khanna and Xiang Ren*. EMNLP 2020. [[pdf](https://www.aclweb.org/anthology/2020.emnlp-main.557)]
 38. **Identifying Elements Essential for BERT’s Multilinguality**. *Philipp Dufter, Hinrich Schütze*. EMNLP 2020. [[pdf](https://www.aclweb.org/anthology/2020.emnlp-main.358.pdf)]
 39. **AUTOPROMPT: Eliciting Knowledge from Language Models with Automatically Generated Prompts**. *Taylor Shin, Yasaman Razeghi, Robert L Logan IV, Eric Wallace, Sameer Singh*. EMNLP 2020. [[pdf](https://www.aclweb.org/anthology/2020.emnlp-main.346.pdf)]
-39. **The Lottery Ticket Hypothesis for Pre-trained BERT Networks**. *Tianlong Chen, Jonathan Frankle, Shiyu Chang, Sijia Liu, Yang Zhang, Zhangyang Wang, Michael Carbin*. NeurIPS 2020. [[pdf](https://papers.nips.cc/paper/2020/file/b6af2c9703f203a2794be03d443af2e3-Paper.pdf)]
+40. **The Lottery Ticket Hypothesis for Pre-trained BERT Networks**. *Tianlong Chen, Jonathan Frankle, Shiyu Chang, Sijia Liu, Yang Zhang, Zhangyang Wang, Michael Carbin*. NeurIPS 2020. [[pdf](https://papers.nips.cc/paper/2020/file/b6af2c9703f203a2794be03d443af2e3-Paper.pdf)]
+41. **When BERT Plays the Lottery, All Tickets Are Winning**. *Sai Prasanna, Anna Rogers, Anna Rumshisky*. BlackBoxNLP 2020. [[pdf](https://arxiv.org/pdf/2005.00561.pdf)]
 
 ## Finetuning/Adaptation
 
