@@ -8,15 +8,21 @@ Pre-trained Languge Model (PLM) has achieved great success in NLP since 2018. In
 
 ![PLMfamiily](PLMfamily.jpg)
 
-Corrections and suggestions are welcomed. 
+Corrections and suggestions are welcomed.
 
-We also released [OpenCLap](https://github.com/thunlp/OpenCLaP), an open-source Chinese language pre-trained model zoo. Welcome to try it.
+## Open PLMs
+
+We keep train and release large-scale PLMs which are listed as follows. Welcome to try them. 
+
+1. **CPM-2**. Cost-Effective Pre-trained Language Models, 2021. [[Model&Code](https://github.com/TsinghuaAI/CPM-2)]
+2. **CPM-2**. Chinese Pre-trained Language Model, 2020. [[Model&Code](https://github.com/TsinghuaAI/CPM-Generate)]
+3. **OpenCLap**. Open-source Chinese Language Pre-Trained Model Zoo, 2019. [[Link](https://github.com/thunlp/OpenCLaP)]
 
 ## Survey
 
 **Pre-Trained Models: Past, Present and Future**. *Xu Han, Zhengyan Zhang, Ning Ding, Yuxian Gu, Xiao Liu, Yuqi Huo, Jiezhong Qiu, Liang Zhang, Wentao Han, Minlie Huang, Qin Jin, Yanyan Lan, Yang Liu, Zhiyuan Liu, Zhiwu Lu, Xipeng Qiu, Ruihua Song, Jie Tang, Ji-Rong Wen, Jinhui Yuan, Wayne Xin Zhao, Jun Zhu*. arXiv:2106.07139 2021. [[pdf](https://arxiv.org/abs/2106.07139)]
 
-## Models
+## Papers on PLMs Models
 
 1. **Semi-supervised Sequence Learning**. *Andrew M. Dai, Quoc V. Le*. NIPS 2015. [[pdf](https://arxiv.org/pdf/1511.01432.pdf)]
 2. **context2vec: Learning Generic Context Embedding with Bidirectional LSTM**. *Oren Melamud, Jacob Goldberger, Ido Dagan*. CoNLL 2016. [[pdf](https://www.aclweb.org/anthology/K16-1006.pdf)] [[project](http://u.cs.biu.ac.il/~nlp/resources/downloads/context2vec/)] (**context2vec**)
@@ -70,7 +76,7 @@ We also released [OpenCLap](https://github.com/thunlp/OpenCLaP), an open-source 
 53. **Pre-training via Paraphrasing**. *Mike Lewis, Marjan Ghazvininejad, Gargi Ghosh, Armen Aghajanyan, Sida Wang, Luke Zettlemoyer*. NeurIPS 2020. [[pdf](https://papers.nips.cc/paper/2020/file/d6f1dd034aabde7657e6680444ceff62-Paper.pdf)]
 54. **ConvBERT: Improving BERT with Span-based Dynamic Convolution**. *Zi-Hang Jiang, Weihao Yu, Daquan Zhou, Yunpeng Chen, Jiashi Feng, Shuicheng Yan*. NeurIPS 2020. [[pdf](https://papers.nips.cc/paper/2020/file/96da2f590cd7246bbde0051047b0d6f7-Paper.pdf)]
 
-## Model Compression & Acceleration
+## Papers on Model Compression & Acceleration
 
 1. **TinyBERT: Distilling BERT for Natural Language Understanding**. *Xiaoqi Jiao, Yichun Yin, Lifeng Shang, Xin Jiang, Xiao Chen, Linlin Li, Fang Wang, Qun Liu*. Preprint. [[pdf](https://arxiv.org/pdf/1909.10351v2.pdf)] [[code & model](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TinyBERT)]
 2. **Distilling Task-Specific Knowledge from BERT into Simple Neural Networks**. *Raphael Tang, Yao Lu, Linqing Liu, Lili Mou, Olga Vechtomova, Jimmy Lin*. Preprint. [[pdf](https://arxiv.org/pdf/1903.12136.pdf)]
@@ -95,7 +101,7 @@ We also released [OpenCLap](https://github.com/thunlp/OpenCLaP), an open-source 
 21. **DynaBERT: Dynamic BERT with Adaptive Width and Depth**. *Lu Hou, Zhiqi Huang, Lifeng Shang, Xin Jiang, Xiao Chen, Qun Liu*. NeurIPS 2020. [[pdf](https://papers.nips.cc/paper/2020/file/6f5216f8d89b086c18298e043bfe48ed-Paper.pdf)]
 22. **BERT Loses Patience: Fast and Robust Inference with Early Exit**. *Wangchunshu Zhou, Canwen Xu, Tao Ge, Julian McAuley, Ke Xu, Furu Wei*. NeurIPS 2020. [[pdf](https://papers.nips.cc/paper/2020/file/d4dd111a4fd973394238aca5c05bebe3-Paper.pdf)]
 
-## Model Analysis
+## Papers on Model Analysis
 
 1. **Revealing the Dark Secrets of BERT**. *Olga Kovaleva, Alexey Romanov, Anna Rogers, Anna Rumshisky*. EMNLP 2019. [[pdf](https://arxiv.org/abs/1908.08593)] 
 2. **How Does BERT Answer Questions? A Layer-Wise Analysis of Transformer Representations**. *Betty van Aken, Benjamin Winter, Alexander Löser, Felix A. Gers*. CIKM 2019. [[pdf](https://arxiv.org/pdf/1909.04925.pdf)]
@@ -141,7 +147,7 @@ Dipanjan Das, and Ellie Pavlick*. ICLR 2019. [[pdf](https://arxiv.org/pdf/1905.0
 39. **AUTOPROMPT: Eliciting Knowledge from Language Models with Automatically Generated Prompts**. *Taylor Shin, Yasaman Razeghi, Robert L Logan IV, Eric Wallace, Sameer Singh*. EMNLP 2020. [[pdf](https://www.aclweb.org/anthology/2020.emnlp-main.346.pdf)]
 39. **The Lottery Ticket Hypothesis for Pre-trained BERT Networks**. *Tianlong Chen, Jonathan Frankle, Shiyu Chang, Sijia Liu, Yang Zhang, Zhangyang Wang, Michael Carbin*. NeurIPS 2020. [[pdf](https://papers.nips.cc/paper/2020/file/b6af2c9703f203a2794be03d443af2e3-Paper.pdf)]
 
-## Finetuning/Adaptation
+## Papers on Finetuning or Adaptation
 
 1. **SMART: Robust and Efficient Fine-Tuning for Pre-trained Natural Language Models through Principled Regularized Optimization**. *Haoming Jiang, Pengcheng He, Weizhu Chen, Xiaodong Liu, Jianfeng Gao, Tuo Zhao*. ACL 2020. [[pdf](https://www.aclweb.org/anthology/2020.acl-main.197.pdf)]
 2. **Do you have the right scissors? Tailoring Pre-trained Language Models via Monte-Carlo Methods**. *Ning Miao, Yuxuan Song, Hao Zhou, Lei Li*. ACL 2020. [[pdf](https://www.aclweb.org/anthology/2020.acl-main.314.pdf)]
@@ -151,7 +157,7 @@ Dipanjan Das, and Ellie Pavlick*. ICLR 2019. [[pdf](https://arxiv.org/pdf/1905.0
 6. **Masking as an Efficient Alternative to Finetuning for Pretrained Language Models**. *Mengjie Zhao, Tao Lin, Fei Mi, Martin Jaggi, Hinrich Schütze*. EMNLP 2020. [[pdf](https://www.aclweb.org/anthology/2020.emnlp-main.174.pdf)]
 7. **CogLTX: Applying BERT to Long Texts**. *Ming Ding, Chang Zhou, Hongxia Yang, Jie Tang*. NeurIPS 2020. [[pdf](https://papers.nips.cc/paper/2020/file/96671501524948bc3937b4b30d0e57b9-Paper.pdf)]
 
-## Prompt-based Tuning
+## Papers on Prompt-based Tuning
 
 Here is our new paper list on prompt-based tuning for pre-trained language models. [[repo](https://github.com/thunlp/PromptPapers)]
 
