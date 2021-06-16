@@ -15,7 +15,7 @@ Corrections and suggestions are welcomed.
 We keep training and releasing large-scale PLMs in recent years, which are listed as follows. Welcome to try them. 
 
 1. **CPM-2**. Cost-Effective Pre-trained Language Models, 2021. [[Model&Code](https://github.com/TsinghuaAI/CPM-2)]
-2. **CPM-2**. Chinese Pre-trained Language Model, 2020. [[Model&Code](https://github.com/TsinghuaAI/CPM-Generate)]
+2. **CPM-1**. Chinese Pre-trained Language Model, 2020. [[Model&Code](https://github.com/TsinghuaAI/CPM-Generate)]
 3. **OpenCLap**. Open-source Chinese Language Pre-Trained Model Zoo, 2019. [[Link](https://github.com/thunlp/OpenCLaP)]
 
 ## Survey
