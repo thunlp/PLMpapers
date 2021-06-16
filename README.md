@@ -2,6 +2,14 @@
 
 Contributed by [Xiaozhi Wang](https://bakser.github.io/) and [Zhengyan Zhang](https://github.com/zzy14).
 
+***** **New Jure 16th, 2021: Pre-Trained Models: Past, Present and Future** *****
+
+Here is our new survey paper on pre-trained language models. [[pdf](https://arxiv.org/pdf/2106.07139)]
+
+***** **New Jure 5th, 2021: PromptPapers** *****
+
+Here is our new paper list on prompt-based tuning for pre-trained language models. [[repo](https://github.com/thunlp/PromptPapers)]
+
 ## Introduction
 
 Pre-trained Languge Model (PLM) is a very popular topic in NLP. In this repo, we list some representative work on PLM and show their relationship with a diagram. Feel free to distribute or use it! [Here](https://github.com/thunlp/PLMpapers/blob/master/PLMfamily.pptx) you can get the source PPT file of the diagram if you want to use it in your presentation.
