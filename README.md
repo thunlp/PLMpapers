@@ -4,7 +4,7 @@ Contributed by [Xiaozhi Wang](https://bakser.github.io/) and [Zhengyan Zhang](ht
 
 ## Introduction
 
-Pre-trained Languge Model (PLM) has achieved great success in NLP since 2018. In this repo, we list some representative work on PLMs and show their relationship with a diagram. Feel free to distribute or use it! [Here](https://github.com/thunlp/PLMpapers/blob/master/PLMfamily.pptx) you can get the source PPT file of the diagram if you want to use it in your presentation.
+Pre-trained Language Model (PLM) has achieved great success in NLP since 2018. In this repo, we list some representative work on PLMs and show their relationship with a diagram. Feel free to distribute or use it! [Here](https://github.com/thunlp/PLMpapers/blob/master/PLMfamily.pptx) you can get the source PPT file of the diagram if you want to use it in your presentation.
 
 ![PLMfamiily](PLMfamily.jpg)
 
